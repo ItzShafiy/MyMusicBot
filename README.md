@@ -8,7 +8,7 @@ For this I use the python package called:
 
 pip install 'put the python package' and hit enter
 
-By making the bot I use:
+# By making the bot I use:
 
 https://discord.com/developers/applications
 Thank you so much for downloading the code
