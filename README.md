@@ -6,7 +6,7 @@ For this I use the python package called:
 
 # How I download:
 
-pip install 'put the python package' and hit enter
+Go to your terminal and type pip install 'put the python package' and hit enter
 
 # By making the bot I use:
 
